@@ -3,6 +3,7 @@
 This project demonstrates a **race condition bug** found in the Go web service tutorial and shows how to fix it.
 
 **Based on:** [Tutorial: Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin)
+
 **Video walkthrough:** [Youtube video](https://www.youtube.com/watch?v=5diIXJ5HQGU)
 
 ## Project Structure
